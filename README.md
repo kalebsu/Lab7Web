@@ -72,3 +72,11 @@
 - Tampilan Output
 
 ![img](gambar_p7/coding12.png)
+
+- Sekian Tugas dan latihan praktikum 7. semoga bermanfaat 
+
+Teknik Informatika
+Universitas Pelita Bangsa
+2022
+
+============= TERIMAKASIH =============
